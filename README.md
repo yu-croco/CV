@@ -1,5 +1,5 @@
 # 経歴
-2019年9月更新
+2020年8月更新
 
 ## 概要
 #### ポジション: バックエンドエンジニア
@@ -13,7 +13,8 @@
 - サーバーサイド
   - Scala(PlayFramrwork 2.x)
   - Ruby(Rails 5.x)
-  - node.js(Express)
+  - node.js
+  - Golang
 - DB
   - MySQL
   - PostgreSQL
